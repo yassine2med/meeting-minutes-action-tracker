@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="meeting-minutes-action-tracker" width="100%"></p>
+
 # meeting-minutes-action-tracker
 
 Action items die in meeting minutes. Someone writes "Sam to get quotes by Friday" in a paragraph, and nobody sees it again. This repo reads plain text minutes, pulls out every action item with its owner and a real due date, and tells you what is overdue or has no owner.
