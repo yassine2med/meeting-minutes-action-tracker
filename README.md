@@ -2,6 +2,8 @@
 
 # meeting-minutes-action-tracker
 
+[![CI](https://github.com/yassine2med/meeting-minutes-action-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/meeting-minutes-action-tracker/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Action items die in meeting minutes. Someone writes "Sam to get quotes by Friday" in a paragraph, and nobody sees it again. This repo reads plain text minutes, pulls out every action item with its owner and a real due date, and tells you what is overdue or has no owner.
 
 ![Screenshot](docs/screenshot.png)
